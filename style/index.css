@@ -1,0 +1,98 @@
+/* 𝑲𝒆𝒗𝒊𝒏𝘾𝙧𝙤𝙢𝙚𝙨™ — Hoje às 20:19 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+     
+}
+
+body{
+
+    background-image:linear-gradient(rgba(41, 41, 41, 0.968), rgba(19, 7, 128, 0.288));
+    height: 100vh;
+
+}
+
+footer{
+
+    background-color: rgba(255, 255, 255, 0);
+    height: 40px;
+     
+}
+
+
+.top{
+
+    display: flex;
+   padding: 35px;
+   font-size: 20px;
+   font-family: sans-serif;
+   font-weight: 700;
+   background-color: rgba(0, 0, 0, 0);margin-top: 30px;
+
+     
+}
+
+.top a{
+ 
+    color: rgb(244, 244, 244);
+
+}
+
+.logo{
+
+    width: 49%;
+    font-size: 30px;
+    white-space: nowrap;
+    
+  
+
+}
+
+.botoes{
+     
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-left: 350px;
+    
+    
+}
+
+.botoes a{
+ 
+  
+    white-space: nowrap;
+    
+
+}
+
+.container{
+
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+
+}
+
+.imagem img{
+
+
+
+    width: 250px;
+    padding-top: 5px;
+
+}
+
+.textomeio{
+
+
+
+}
